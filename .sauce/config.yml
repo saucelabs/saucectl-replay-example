@@ -1,0 +1,8 @@
+apiVersion: v1alpha
+kind: puppeteer-replay
+sauce:
+  region: us-west-1
+  concurrency: 10
+suites:
+  - name: "getting some coffee"
+    recordings: [ "recordings/coffee-cart.json" ]
