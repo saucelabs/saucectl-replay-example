@@ -27,7 +27,7 @@ Simply check out this repo and run the command below 🚀
 saucectl run
 ```
 
-![running example](assets/recording.gif)
+![running example](assets/replay-example.gif)
 
 ## The Config
 
